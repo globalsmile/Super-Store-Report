@@ -1,12 +1,12 @@
 # Project Name:
 
-Super-Store-Report
+Super Store Report
 
 ---
 
 # Project Objective:
 
-The purpose of this analysis is to visualize the sales by quarter and year, top 5 cities by sales, bottom 5 cities by sales, and sales by segment.
+The purpose of this analysis is to determine the  amount of sales by quarter and year, top 5 cities by sales, bottom 5 cities by sales, and amount of sales by segment.
 
 ---
 
