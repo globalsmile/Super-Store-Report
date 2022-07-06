@@ -6,7 +6,13 @@ Super Store Report
 
 # Project Objective:
 
-The purpose of this analysis is to determine the  amount of sales by quarter and year, top 5 cities by sales, bottom 5 cities by sales, and amount of sales by segment.
+A super store in the United States wishes to build an Headquatre Officee in the location where the highest sales were made. At the opening event, the stakeholders wish to award the customer with highest sales and also to appoint the best salesrep( i.e the salesrep that has made the highest sales) as the new Sales manager of the new headquatre.
+
+3 questions were asked:
+
+- Which Region/location has the highest sales made?
+- Which Sales rep made the highest sales?
+- Which Customer purchased the highest sales?
 
 ---
 
