@@ -29,6 +29,10 @@ See 'SuperStore_Normalized' above.
 ---
 
 # Findings and Recommendations:
+- New York City is appropriate location/City to build the Office Headquatres
+- Morris Garcia should be the Sales Manager for the new headquatre Office.
+- Sean Miller is the most precious customer at the moment and needs tp be compensated either by an award or consierable discounts on subsequent sales.
+
 
 ![image](https://user-images.githubusercontent.com/106287208/175520123-bdfdc770-b838-4395-bf98-bf74834a8cfa.png)
 ![image](https://user-images.githubusercontent.com/106287208/175520262-1ee89197-9ec7-4b98-bd13-013ceaa0ce48.png)
